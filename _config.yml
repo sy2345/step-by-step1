@@ -2,8 +2,6 @@ collections:
   authors:
     output: true
 
-baseurl:/step-by-step1
-
 defaults:
   - scope:
       path: ""
