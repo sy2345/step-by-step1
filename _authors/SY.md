@@ -4,4 +4,4 @@ name: 宋颖
 position: student
 ---
 
-学号：20191060099
+快乐每一天！
