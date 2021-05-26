@@ -1,6 +1,6 @@
 ---
-short_name: 宋颖
-name: 宋颖
+short_name: SY
+name: SY
 position: student
 ---
 
